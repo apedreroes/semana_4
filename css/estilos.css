@@ -1,0 +1,29 @@
+
+header {
+    background-color: #1b365d;
+}
+
+h1 {
+    color: #FFFFFF;
+}
+nav a {
+    color: #f2c75c;
+}
+li:last-child {
+    border-right: none;
+}
+
+blockquote {
+    border-left: 10px solid #5d3754;
+    padding: 1rem;
+    margin: 1rem;
+    /* Esto es un cambio en otra rama */
+    background-color: #f2c75c;
+
+
+}
+
+section img {
+    width: 25%;
+
+}
